@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello! My name is Salvatore Caradonna, though I go by Sonny. I am a current MD-PhD trainee at Case Western Reserve University. I am currently working in the lab of Dr. Andrew Pieper investigating the pathophysiology behind neurodegenerative diseases and exploring my interests in psychiatry and neurology. Outside of my professional work I enjoy my pickleball league, violin with my chamber group, and disco music on the dance floor. Feel free to learn more about me from my website!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\nCase Western Reserve University | Cleveland, OH\nPhD in Pathology, Molecular and Cellular Basis of Disease | July 2022 -\nMD | July 2022 -\nThe Ohio State University | Columbus, OH\nB.S in Neuroscience | Aug 2015 - May 2019"
+  },
+  {
+    "objectID": "index.html#research-experience",
+    "href": "index.html#research-experience",
+    "title": "About Me",
+    "section": "Research Experience",
+    "text": "Research Experience\nAndrew Pieper Laboratory | Case Western Reserve University | 2022 -\nJordan Marrocco Laboratory | Touro University | Jan 2022 - May 2022\nBruce McEwen Laboratory | The Rockefeller University | June 2019 - Jan 2022\nArnab Chakravarti Laboratory | The Ohio State University | June 2016 - May 2019"
+  },
+  {
+    "objectID": "Publications.html",
+    "href": "Publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "DeRosa H, Caradonna SG, Tran H, Marrocco J, Kentner AC. (2022) Got milk? Maternal immune activation during the mid-lactational period affects nutritional milk quality and adolescent offspring sensory processing in male and female rats. Molecular Psychiatry. 10.1038/s41380-022-01744-y.\nDeRosa H, Caradonna SG, Tran H, Marrocco J, Kentner AC. (2022) Milking it for all it’s worth: The effects of environmental enrichment on maternal nurturance, lactation quality, and offspring social behavior. eNeuro. 10.1523/ENEURO.0148-22.2022.\nCaradonna SG, Paul MR, Marrocco J. (2022) An allostatic epigenetic memory on chromatin footprints after double-hit acute stress. Neurobiology of Stress. 10.1016/j.ynstr.2022.100475.\nCaradonna SG, Einhorn NR, Saudagar V, Khalil H, Petty GH, Lihagen A, LeFloch C, Lee FS, Akil H, Guidotti A, McEwen BS, Gatta E, Marrocco J. (2022) Corticosterone induces discrete epigenetic signatures in the dorsal and ventral hippocampus that depend upon sex and genotype: focus on methylated Nr3c1 gene. Translational Psychiatry. 10.1038/s41398-022-01864-7.\nCaradonna SG, Zhang T-Y, O’Toole N, Mo-Jun S, Khalil H, Einhorn NR, Wen X, Parent C, Lee FS, Akil H, Meaney MJ, McEwen BS, Marrocco J. (2021) Genomic Modules and Intramodular Network Concordance in Susceptible and Resilient Male Mice across Disparate Stress Paradigms. Neuropsychopharmacology. 10.1038/s41386-021-01219-8."
+  }
+]
